@@ -1,0 +1,12 @@
+
+1.项目ssmupload.war
+
+2. spring + springMVC + mybatis + tomcat + maven + layui 
+
+3. 浏览器输入地址即可：http://localhost:8083/ssmupload/
+
+4. weChat：nhnmamtf
+
+5. 相关视频地址：https://www.toutiao.com/i6709023663481422350/
+
+6. 下载和上传成功后的图片存放路径：E:\images
